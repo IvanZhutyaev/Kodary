@@ -1,2 +1,2 @@
 # Kodary
-Online-platform onllin-school
+Online-platform online-school
